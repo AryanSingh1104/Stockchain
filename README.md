@@ -10,4 +10,4 @@ Shop.sol is a smart-contract written in solidity. The main motive of the smart c
 Whenever a customer tries to purchase something the seller raise a transaction request and when the customer accepts this transaction requests the ether is transferred from the customer to seller account by recording the transaction on the blockchain
 
 ## Installation
-The code can be run on remix editor or the environment can be set up on your system using meta mask
+The code (Shop.sol)can be run on remix editor or the environment can be set up on your system using meta mask.
